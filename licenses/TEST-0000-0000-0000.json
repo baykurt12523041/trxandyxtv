@@ -1,0 +1,14 @@
+{
+    "license": "TEST-0000-0000-0000",
+    "username": "antigravity_test",
+    "email": "test@example.com",
+    "expiry_date": "2027-01-01",
+    "xtream": {
+        "host": "http://test.com",
+        "username": "user",
+        "password": "pass"
+    },
+    "m3u_link": "http://test.com/m3u",
+    "status": "test_entry",
+    "timestamp": "2026-04-20T12:55:49.647452"
+}
