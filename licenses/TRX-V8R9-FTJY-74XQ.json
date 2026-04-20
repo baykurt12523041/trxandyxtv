@@ -1,0 +1,15 @@
+{
+    "license": "TRX-V8R9-FTJY-74XQ",
+    "username": "can",
+    "email": "xandyx4050@gmail.com",
+    "expiry_date": "2026-04-20",
+    "iptv_type": "m3u",
+    "xtream": {
+        "host": "",
+        "username": "",
+        "password": ""
+    },
+    "m3u_link": "http://electranextssp.xyz:8080/get.php?username=yasinkordal&password=ahbecanimkarsim&type=m3u_plus",
+    "status": "active",
+    "timestamp": "2026-04-20T13:04:17.661800"
+}
