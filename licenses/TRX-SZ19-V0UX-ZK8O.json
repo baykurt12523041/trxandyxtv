@@ -1,0 +1,15 @@
+{
+    "license": "TRX-SZ19-V0UX-ZK8O",
+    "username": "1ayl\u0131k",
+    "email": "1ayl\u0131k",
+    "expiry_date": "2026-05-23",
+    "iptv_type": "m3u",
+    "xtream": {
+        "host": "",
+        "username": "",
+        "password": ""
+    },
+    "m3u_link": "https://raw.githubusercontent.com/baykurt12523041/-ptv/main/m3u1.m3u",
+    "status": "active",
+    "timestamp": "2026-04-23T22:32:06.159671"
+}
