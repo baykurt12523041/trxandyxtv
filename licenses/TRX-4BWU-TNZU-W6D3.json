@@ -1,0 +1,15 @@
+{
+    "license": "TRX-4BWU-TNZU-W6D3",
+    "username": "denemenet",
+    "email": "yeazyeay",
+    "expiry_date": "2027-04-25",
+    "iptv_type": "m3u",
+    "xtream": {
+        "host": "",
+        "username": "",
+        "password": ""
+    },
+    "m3u_link": "https://raw.githubusercontent.com/baykurt12523041/trxandyxtv/refs/heads/main/licenses/TRX-PSNT-0U3E-YQ31.json",
+    "status": "active",
+    "timestamp": "2026-04-23T12:54:42.609614"
+}
