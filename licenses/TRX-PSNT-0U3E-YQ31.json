@@ -1,0 +1,15 @@
+{
+    "license": "TRX-PSNT-0U3E-YQ31",
+    "username": "futbol",
+    "email": "futbol",
+    "expiry_date": "2027-04-22",
+    "iptv_type": "m3u",
+    "xtream": {
+        "host": "",
+        "username": "",
+        "password": ""
+    },
+    "m3u_link": "https://github.com/baykurt12523041/-ptv/main/03042026_liste.m3u",
+    "status": "active",
+    "timestamp": "2026-04-23T10:46:09.728733"
+}
