@@ -1,0 +1,15 @@
+{
+    "license": "TRX-BI5E-B4WE-KYPS",
+    "username": "iptvform.pro",
+    "email": "iptvform.pro",
+    "expiry_date": "2027-05-23",
+    "iptv_type": "m3u",
+    "xtream": {
+        "host": "",
+        "username": "",
+        "password": ""
+    },
+    "m3u_link": "http://electranextssp.xyz:8080/get.php?username=yasinkordal&password=ahbecanimkarsim&type=m3u_plus",
+    "status": "active",
+    "timestamp": "2026-04-23T17:54:45.496552"
+}
