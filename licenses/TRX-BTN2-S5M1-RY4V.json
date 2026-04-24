@@ -1,0 +1,15 @@
+{
+    "license": "TRX-BTN2-S5M1-RY4V",
+    "username": "1ayl\u0131k",
+    "email": "1ayl\u0131k",
+    "expiry_date": "2026-04-24",
+    "iptv_type": "m3u",
+    "xtream": {
+        "host": "",
+        "username": "",
+        "password": ""
+    },
+    "m3u_link": "https://raw.githubusercontent.com/baykurt12523041/-ptv/main/g%C3%B6rselli.m3u",
+    "status": "active",
+    "timestamp": "2026-04-24T13:01:32.026290"
+}
