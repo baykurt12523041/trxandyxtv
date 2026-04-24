@@ -1,0 +1,15 @@
+{
+    "license": "TRX-UY7H-5MAC-4DDY",
+    "username": "1 ayl\u0131k",
+    "email": "1 ayl\u0131k",
+    "expiry_date": "2026-04-24",
+    "iptv_type": "xtream",
+    "xtream": {
+        "host": "",
+        "username": "",
+        "password": ""
+    },
+    "m3u_link": "",
+    "status": "active",
+    "timestamp": "2026-04-24T12:59:01.100707"
+}
