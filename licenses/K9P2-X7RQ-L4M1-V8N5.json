@@ -1,0 +1,15 @@
+{
+    "license": "K9P2-X7RQ-L4M1-V8N5",
+    "username": "iptvforum.pro",
+    "email": "iptvforum.pro",
+    "expiry_date": "2027-05-23",
+    "iptv_type": "m3u",
+    "xtream": {
+        "host": "",
+        "username": "",
+        "password": ""
+    },
+    "m3u_link": "http://izmiruydu.xyz:8080/get.php?username=mhrrm1737&password=RcZRrWUvRjvA&type=m3u",
+    "status": "active",
+    "timestamp": "2026-05-02T23:54:00.335755"
+}
