@@ -1,0 +1,15 @@
+{
+    "license": "P6L8-W2T9-K5M4-B7R1",
+    "username": "iptvforum.pro",
+    "email": "iptvforum.pro",
+    "expiry_date": "2027-05-23",
+    "iptv_type": "m3u",
+    "xtream": {
+        "host": "",
+        "username": "",
+        "password": ""
+    },
+    "m3u_link": "https://raw.githubusercontent.com/baykurt12523041/-ptv/refs/heads/main/redbox.m3u",
+    "status": "active",
+    "timestamp": "2026-05-02T23:54:00.335755"
+}
