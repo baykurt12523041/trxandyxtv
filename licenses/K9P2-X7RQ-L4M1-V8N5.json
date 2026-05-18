@@ -5,11 +5,11 @@
     "expiry_date": "2027-05-23",
     "iptv_type": "m3u",
     "xtream": {
-        "host": "",
-        "username": "",
-        "password": ""
+        "host": "http://electranextssp.xyz:8080",
+        "username": "alimercanpaket",
+        "password": "nTPEScmK"
     },
-    "m3u_link": "http://izmiruydu.xyz:8080/get.php?username=mhrrm1737&password=RcZRrWUvRjvA&type=m3u",
+    "m3u_link": "",
     "status": "active",
     "timestamp": "2026-05-02T23:54:00.335755"
 }
